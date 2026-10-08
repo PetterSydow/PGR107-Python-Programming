@@ -1,4 +1,4 @@
-# PGR107 – Python Programming
+# PGR107 – Python Programming - Grade: A
 
 Eksamensbesvarelse i **PGR107 Python Programming** ved Høyskolen Kristiania, våren 2026.
 
